@@ -1,0 +1,20 @@
+[
+  {
+    "modid": "ntm_structure",
+    "name": "NTM Structure Ported CE",
+    "description": "CE-compatible port of NTM Structure Ported (block names remapped for NTM-CE 2.6.x).",
+    "version": "2.0.1-ce",
+    "credits": "Ported By BailieByrne",
+    "logoFile": "",
+    "mcversion": "1.12.2",
+    "url": "byrnebsuiness.com",
+    "updateUrl": "",
+    "authorList": [
+      "AliyKorol, BailieByrne"
+    ],
+    "dependencies": ["required-after:hbm"],
+    "dependants": [],
+    "requiredMods": ["hbm"],
+    "useDependencyInformation": "true"
+  }
+]
