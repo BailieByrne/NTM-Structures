@@ -10,6 +10,10 @@ checkpoints, command posts, wrecked vehicles and ships, radioactive sites,
 mines, and other structures. Locations appear across different biomes and
 offer places to explore and resources to discover.
 
+## Original mod
+
+This port is based on [HBM/NTM Structure on CurseForge](https://www.curseforge.com/minecraft/mc-mods/hbm-ntm-structure-1-12-2).
+
 [![Submit an issue](https://img.shields.io/badge/Report-Issues-blue?style=for-the-badge)](https://github.com/BailieByrne/NTM-Structures/issues/new)
 
 Please [submit issues here](https://github.com/BailieByrne/NTM-Structures/issues/new)
