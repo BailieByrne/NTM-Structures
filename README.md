@@ -1,5 +1,7 @@
 # NTM Structure Ported CE
 
+[![Download the JAR](https://img.shields.io/badge/Download-Mod%20JAR-brightgreen?style=for-the-badge)](https://github.com/BailieByrne/NTM-Structures/raw/refs/heads/main/NTMstructure-1_12_2-2_0-CE-converted.jar)
+
 An NTM Structures compatibility port for NTM Community Edition on Minecraft
 1.12.2. Block references have been remapped for NTM-CE 2.6.x.
 
@@ -7,6 +9,11 @@ Explore a post-apocalyptic world filled with abandoned bunkers, military
 checkpoints, command posts, wrecked vehicles and ships, radioactive sites,
 mines, and other structures. Locations appear across different biomes and
 offer places to explore and resources to discover.
+
+[![Submit an issue](https://img.shields.io/badge/Report-Issues-blue?style=for-the-badge)](https://github.com/BailieByrne/NTM-Structures/issues/new)
+
+Please [submit issues here](https://github.com/BailieByrne/NTM-Structures/issues/new)
+to report bugs, crashes, or other problems.
 
 ## Requirements
 
